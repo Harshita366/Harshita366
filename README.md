@@ -1,6 +1,6 @@
 # Hi, I'm Harshita 👋
 
-🎓 Sixth Semester Computer Science Engineering Student  
+🎓 Third Year Computer Science Engineering Student  
 🚀 Grinding towards becoming a Full-Stack Web Developer  
 📚 Strong interest in Data Structures and Machine Learning  
 
