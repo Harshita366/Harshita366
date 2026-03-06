@@ -11,7 +11,12 @@
 ### 💻 Frontend
 - HTML  
 - CSS  
-- JavaScript  
+- JavaScript
+
+ ### 💻 Backend
+- Node.js
+- Express.js
+- REST APIs 
 
 ### 🔧 Tools & Others
 - Git & GitHub  
